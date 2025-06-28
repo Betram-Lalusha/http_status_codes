@@ -1,6 +1,6 @@
 {
   "name": "light-http-status-codes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This package contains http status codes that can be used by both clients and servers.",
   "main": "src/index.js",
   "scripts": {
